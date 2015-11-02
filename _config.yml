@@ -34,7 +34,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Sandra
+  name: Sandra Giuliani
   avatar: bio-photo.jpg
   email: sandraxgiuliani@gmail.com
   disqus-shortname:
