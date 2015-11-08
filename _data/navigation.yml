@@ -4,8 +4,8 @@
   url: /home/
 
 
-- title: About
-  url: /about/
+#- title: About
+#  url: /about/
 
 #- title: Articles
 #  url: /articles/
@@ -13,14 +13,8 @@
 - title: CV
   url: /cv/
 
-#- title: Blog
-#  url: /blog/
-
-#- title: Theme Setup
-#  url: /theme-setup/
-
-#- title: Made Mistakes
-#  url: http://mademistakes.com
+- title: Contacts
+  url: /contact/
 
 - title: Search
   url: /search/
