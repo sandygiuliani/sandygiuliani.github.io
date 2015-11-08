@@ -1,2 +1,18 @@
 _site
+.sass-cache
+.DS_Store
+
+#rm below if creating issues - copied from ocan.github.io gitignore
+*.sublime-project
+*.sublime-workspace
+codekit-config.json
+node_modules
+Gemfile.lock
+Thumbs.db
+images/Thumbs.db
+*.db
+
+# also this should a cache - fine to ignore
+.jekyll-metadata
+
 
