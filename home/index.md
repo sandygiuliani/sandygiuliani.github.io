@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About this website
+title: home
 excerpt: "This is my website"
 #modified: 2014-08-08T19:44:38.564948-04:00
-image:
-  feature: so-simple-sample-image-4.jpg
-  credit: WeGraphics
-  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+#image:
+#  feature: so-simple-sample-image-4.jpg
+#  credit: WeGraphics
+#  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-#Why?
+#Home
 
-Why not.
+But why? Why not.
