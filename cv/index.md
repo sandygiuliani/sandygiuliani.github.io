@@ -1,6 +1,6 @@
 ---
 layout: page
-title: CV
+title: My Curriculum Vitae
 excerpt: "My Curriculum Vitae"
 date: 2015-11-08T15:02:56+00:00
 #image:
@@ -9,17 +9,13 @@ date: 2015-11-08T15:02:56+00:00
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
 ---
 
-## Work & Research Experience
+## Work & Research Experience  
+*June 2015 - ongoing*  
+#### Scientist, Intelligent Pharmaceuticals** at AstraZeneca  
+* currently supporting the roll out and testing of mobile health devices and apps for the respiratory portfolio  
 
-#### **Scientist, Intelligent Pharmaceuticals** at AstraZeneca
-
-###### June 2015 - ongoing
-
-* currently supporting the roll out and testing of mobile health devices and apps for the respiratory portfolio
-
-#### **Scientist, Early Product Development** at AstraZeneca
-
-###### September 2014 - May 2015
+#### Scientist, Early Product Development** at AstraZeneca  
+###### September 2014 - May 2015  
 
 * developed of a predictive tool for formulation science in VB.NET
 * developed an *in silico* biopharmaceutical model to support a New Drug Application
@@ -36,17 +32,19 @@ date: 2015-11-08T15:02:56+00:00
 * graduated with Distinction
 
 
-# test heading 1
+# test heading 1  
+## heading 2  
+### heading 3  
+#### heading 4  
+##### heading 5  
+###### heading 6  
 
-## heading 2
+test, now two spaces  
+2nd line, no spaces
+3rd line, now two spaces + new line with spaces  
+  
+final line
 
-### heading 3
-
-#### heading 4
-
-##### heading 5
-
-###### heading 6
 
 
 
