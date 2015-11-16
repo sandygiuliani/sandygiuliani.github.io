@@ -1,12 +1,12 @@
 # Site wide configuration
 
-title: Sandra's website
+title: Sandra Giuliani
 locale: en_UK
-description: I made this website with my bare hands.
+description: Science | Tech | Health | Other things
 logo: site-logo.png
 search: true
-#url: http://localhost:4000
-url: http://sandygiuliani.github.io
+url: http://localhost:4000
+#url: http://sandygiuliani.github.io
 
 # Jekyll configuration
 
