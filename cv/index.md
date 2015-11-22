@@ -48,20 +48,20 @@ date: 2015-11-08T15:02:56+00:00
 * graduated with Distinction  
 
 
-**MSc in Chemistry and Pharmaceutical Technologies** from University of Bologna
+**MSc in Chemistry and Pharmaceutical Technologies** from University of Bologna  
 *October 2006 - March 2012*  
 
 * trained in medicinal chemistry, pharmacology, drug development
 * graduated with 110/110 cum laude
 
 
-**Visiting Student** at Monash University
+**Visiting Student** at Monash University  
 *February 2009 - July 2009*  
 
 * trained in computational chemistry, analytical methods and biopharmaceutics
 * obtained High Distinction (>80%) in all modules
 
-**Scientific High School Diploma** from Liceo Scientifico A. Oriani
+**Scientific High School Diploma** from Liceo Scientifico A. Oriani  
 *September 2001 - July 2006*  
 
 * trained in all high-school subjects, with a focus on physics, mathematics, biology and chemistry
