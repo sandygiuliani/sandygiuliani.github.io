@@ -24,7 +24,7 @@ date: 2015-11-08T15:02:56+00:00
 * developed an *in silico* biopharmaceutical model to support a New Drug Application  
 * organised and facilitated an internal team building event for over 200 people  
 
-**Chemo/bioinformatician, visiting student** at London School of Hygiene and Tropical Medicine  
+**Chemo/bioinformatician, visiting student** at [London School of Hygiene and Tropical Medicine](http://www.lshtm.ac.uk/)  
 *April 2014 - August 2014*  
 
 * developed a computational drug repositioning protocol to be applied to schistosomiasis
@@ -60,12 +60,6 @@ date: 2015-11-08T15:02:56+00:00
 
 * trained in computational chemistry, analytical methods and biopharmaceutics
 * obtained High Distinction (>80%) in all modules
-
-**Scientific High School Diploma** from Liceo Scientifico A. Oriani  
-*September 2001 - July 2006*  
-
-* trained in all high-school subjects, with a focus on physics, mathematics, biology and chemistry
-* graduated with 100/100 cum laude
 
 
 
