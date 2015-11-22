@@ -24,13 +24,13 @@ date: 2015-11-08T15:02:56+00:00
 * developed an *in silico* biopharmaceutical model to support a New Drug Application  
 * organised and facilitated an internal team building event for over 200 people  
 
-**Chemo/bioinformatician, visiting student** at London School of Hygiene and Tropical Medicine
+**Chemo/bioinformatician, visiting student** at London School of Hygiene and Tropical Medicine  
 *April 2014 - August 2014*  
 
 * developed a computational drug repositioning protocol to be applied to schistosomiasis
-* identified repositioning candidates for further testing 
+* identified repositioning candidates for further testing  
 
-**Computational Chemist** at Eli Lilly and Company
+**Computational Chemist** at Eli Lilly and Company  
 *February 2012 - May 2013*  
 
 * ...
