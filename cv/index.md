@@ -7,6 +7,7 @@ date: 2015-11-08T15:02:56+00:00
 #  feature: so-simple-sample-image-4.jpg
 #  credit: WeGraphics
 #  creditlink: http://wegraphics.net/downloads/free-ultimate-blurred-background-pack/
+search_omit: false
 ---
 
 ## Work & Research Experience  
