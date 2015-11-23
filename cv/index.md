@@ -74,7 +74,7 @@ date: 2015-11-08T15:02:56+00:00
 * produced archiviation spreadsheets  
 
 
-##################################################################
+
 
 ## Education  
 
@@ -95,7 +95,7 @@ date: 2015-11-08T15:02:56+00:00
 * obtained High Distinction (>80%) in all modules  
 
 
-##################################################################
+
 
 ## Certifications  
 
@@ -111,7 +111,7 @@ date: 2015-11-08T15:02:56+00:00
 
 * **European Driving Licence (B)** from [MIT](http://www.mit.gov.it/), 2005  
 
-##################################################################
+
 
 ## Honors and Awards  
 
