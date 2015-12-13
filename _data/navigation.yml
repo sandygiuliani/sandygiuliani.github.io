@@ -13,8 +13,8 @@
 - title: CV
   url: /cv/
 
-- title: Contacts
+- title: Contact
   url: /contact/
 
-- title: Search
-  url: /search/
+#- title: Search
+#  url: /search/
