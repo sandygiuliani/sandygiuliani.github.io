@@ -12,7 +12,8 @@ url: http://sandygiuliani.github.io
 
 permalink:   /:categories/:title/
 markdown:    kramdown
-highlighter: pygments
+# 'pygments' is not supported anymore, changed to rouge as advised by GitHub pages
+highlighter: rouge
 sass:
   sass_dir: _sass
   style: compressed
