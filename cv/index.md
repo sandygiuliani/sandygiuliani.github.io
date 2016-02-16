@@ -13,7 +13,7 @@ search_omit: false
 ## Work & Research Experience  
 
 **Scientist, Intelligent Pharmaceuticals** at [AstraZeneca](www.astrazeneca.co.uk)  
-*June 2015 - present*  
+*June 2015 - January 2016*  
 
 * currently supporting the roll out and testing of mobile health devices and apps for the respiratory portfolio  
 
