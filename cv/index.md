@@ -12,10 +12,15 @@ search_omit: false
 
 ## Work & Research Experience  
 
+**Scientist, Chief Technical Officer team** at [AstraZeneca](www.astrazeneca.co.uk)  
+*February 2016 - ongoing*  
+
+* scouting new technologies that could translate into employee- or patient-facing solutions
+
 **Scientist, Intelligent Pharmaceuticals** at [AstraZeneca](www.astrazeneca.co.uk)  
 *June 2015 - January 2016*  
 
-* currently supporting the roll out and testing of mobile health devices and apps for the respiratory portfolio  
+* managed the development and roll out of mobile health devices and apps for the respiratory portfolio  
 
 
 **Scientist, Early Product Development** at [AstraZeneca](www.astrazeneca.co.uk)  
