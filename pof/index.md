@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: nohead
 title: Patient Outcome Funding
 excerpt: "Patient Outcome Funding"
 date: 2015-11-08T15:02:56+00:00
