@@ -7,6 +7,8 @@ search_omit: false
 ---
 
 ## A new paradigm to address the funding gap in healthcare areas with high patient need
+*by Raphael Chow - Sandra Giuliani - Valérie Hepp*  
 
-This page is a work in progress - please check back soon or contact me.  
+This page is a work in progress, temporarly hosted on my personal website.   
+Please check back soon or [contact me](/contact/).  
 March 2016
