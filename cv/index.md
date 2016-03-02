@@ -12,7 +12,7 @@ search_omit: false
 
 ## Work & Research Experience  
 
-**Scientist, Chief Technical Officer team** at [AstraZeneca](www.astrazeneca.co.uk)  
+**Scientist, Chief Technical Officer Tech Incubation Lab** at [AstraZeneca](www.astrazeneca.co.uk)  
 *February 2016 - ongoing*  
 
 * scouting new technologies that could translate into employee- or patient-facing solutions
