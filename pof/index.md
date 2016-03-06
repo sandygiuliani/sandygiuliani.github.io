@@ -50,9 +50,9 @@ Once the validity of the model is proven, we plan to expand the UK-based fund to
 Finally (Step 3, International Investment Phase), we envisage the expansion of the POF model to bring larger public sector entities to invest in countries with large economic interests where patient outcomes could have the greatest positive impact, for instance expanding to other infectious and neglected diseases areas.<sup>[4b](#ref4)</sup>  
 As a team, we want to start the POF by engaging investors, public sector entities and companies to implement Step 1. As a long-term goal, once Step 1 has proven that the model is feasible, Steps 2 and 3 could be then carefully executed. Ultimately, our ambition is that this model will represent an attractive alternative for funneling healthcare funding globally – which in turn will allow for tackling of healthcare areas that are currently neglected but have high socio-economic impact and for which no other sustainable funding mechanism currently exists. 
 
------------------------------------------------------------------------------
-
-####References  
+-------------------------------------------------------------------------
+  
+#### References  
 <a name="ref1"></a>
 <i>
 1a  
