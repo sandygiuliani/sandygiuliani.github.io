@@ -8,7 +8,7 @@ search_omit: false
 
 
 
-## A new paradigm to address the funding gap in healthcare areas with high patient need
+## A sustainable model to fund high-impact research and innovation in healthcare  
 *by Raphael Chow - Sandra Giuliani - Valérie Hepp*  
 
 ### The problem  
