@@ -12,22 +12,22 @@ search_omit: false
 
 ## Work & Research Experience  
 
-**Managing Director, Imprenditore Agricolo Professionale** at [Società Agricola Patuelli Malagola di Giuliani Sandra S.S.](www.aapatuellimalagola.com)   
+**Managing Director, Imprenditore Agricolo Professionale** at [Società Agricola Patuelli Malagola di Giuliani Sandra S.S.](http://www.aapatuellimalagola.com)   
 *June 2007 - ongoing*  
 
 
-**Scientist, Chief Technical Officer Tech Incubation Lab** at [AstraZeneca](www.astrazeneca.co.uk)  
+**Scientist, Chief Technical Officer Tech Incubation Lab** at [AstraZeneca](htttp://www.astrazeneca.co.uk)  
 *February 2016 - September 2016*  
 
 * scouted new technologies to be translated into employee- or patient-facing solutions
 
-**Scientist, Intelligent Pharmaceuticals** at [AstraZeneca](www.astrazeneca.co.uk)  
+**Scientist, Intelligent Pharmaceuticals** at [AstraZeneca](htttp://www.astrazeneca.co.uk)  
 *June 2015 - January 2016*  
 
 * managed the development and roll out of mobile health devices and apps for the respiratory portfolio  
 
 
-**Scientist, Early Product Development** at [AstraZeneca](www.astrazeneca.co.uk)  
+**Scientist, Early Product Development** at [AstraZeneca](htttp://www.astrazeneca.co.uk)  
 *September 2014 - May 2015*  
 
 * developed of a predictive tool for formulation science in VB.NET  
@@ -43,7 +43,7 @@ search_omit: false
 * source deposited on [GitHub repository](https://github.com/sandygiuliani/drug_repo)  
 
 
-**Computational Chemist** at [Eli Lilly and Company](www.lilly.co.uk)    
+**Computational Chemist** at [Eli Lilly and Company](htttp://www.lilly.co.uk)    
 *February 2012 - May 2013*  
 
 * developed structure-based molecular models to target a ionotropic receptor  
@@ -51,7 +51,7 @@ search_omit: false
 * built workflow to compare molecular modelling results and biological assay data  
 
 
-**Biologist** at [Eli Lilly and Company](www.lilly.co.uk)    
+**Biologist** at [Eli Lilly and Company](htttp://www.lilly.co.uk)    
 *September 2012 - May 2013*  
 
 * developed an optimised protocol for coating multielectrode arrays (MEAs)  
@@ -79,12 +79,6 @@ search_omit: false
 * compounded capsules, ointments and other medications  
 
 
-**Associate managing director** at [Azienda Agricola Patuelli-Malagola](http://www.aapatuellimalagola.com/)      
-*June 2007 - present*  
-
-* currently managing the business in collaboration with other associates  
-
-
 **Intern** at [Camera di Commercio, Industria, Artigianato, Agricoltura di Ravenna (Chamber of Commerce)](http://www.ra.camcom.gov.it/)      
 *June 2005 - July 2005*  
 
@@ -97,14 +91,14 @@ search_omit: false
 
 ## Education  
 
-**MSc in Drug Design** from [University College London](www.ucl.ac.uk)  
+**MSc in Drug Design** from [University College London](htttp://www.ucl.ac.uk)  
 *September 2013 - August 2014*  
 
 * trained in latest techniques applied to drug design, with a focus on computational techniques such as molecular modelling, chemoinformatics, bioinformatics  
 * graduated with Distinction  
 
 
-**MSc in Chemistry and Pharmaceutical Technologies** from [University of Bologna](www.unibo.it)  
+**MSc in Chemistry and Pharmaceutical Technologies** from [University of Bologna](htttp://www.unibo.it)  
 *October 2006 - March 2012*  
 
 * trained in medicinal chemistry, pharmacology, drug development  
@@ -142,6 +136,6 @@ search_omit: false
 * **First place winner of a Leonardo da Vinci grant** - granted via the [UnipharmaGraduates](http://www.unipharmagraduates.it/) programme, by Sapienza University of Rome and Noopolis foundation, 2012 
 
 
-* **First place winner of a 'Thesis abroad' bursary** to support the research project at the Monash Institute of Pharmaceutical Sciences - granted by the Faculty of Pharmacy, [University of Bologna](www.unibo.it)  
+* **First place winner of a 'Thesis abroad' bursary** to support the research project at the Monash Institute of Pharmaceutical Sciences - granted by the Faculty of Pharmacy, [University of Bologna](htttp://www.unibo.it)  
 
-* **First place winner of an 'Overseas' scholarship** to spend one semester at the Faculty of Pharmacy and Pharmaceutical Sciences at Monash University - granted by the [University of Bologna](www.unibo.it)  
+* **First place winner of an 'Overseas' scholarship** to spend one semester at the Faculty of Pharmacy and Pharmaceutical Sciences at Monash University - granted by the [University of Bologna](htttp://www.unibo.it)  
