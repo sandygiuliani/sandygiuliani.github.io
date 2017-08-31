@@ -12,10 +12,14 @@ search_omit: false
 
 ## Work & Research Experience  
 
-**Scientist, Chief Technical Officer Tech Incubation Lab** at [AstraZeneca](www.astrazeneca.co.uk)  
-*February 2016 - ongoing*  
+**Managing Director, Imprenditore Agricolo Professionale** at [Società Agricola Patuelli Malagola di Giuliani Sandra S.S.](www.aapatuellimalagola.com)   
+*June 2007 - ongoing*  
 
-* scouting new technologies that could translate into employee- or patient-facing solutions
+
+**Scientist, Chief Technical Officer Tech Incubation Lab** at [AstraZeneca](www.astrazeneca.co.uk)  
+*February 2016 - September 2016*  
+
+* scouted new technologies to be translated into employee- or patient-facing solutions
 
 **Scientist, Intelligent Pharmaceuticals** at [AstraZeneca](www.astrazeneca.co.uk)  
 *June 2015 - January 2016*  
