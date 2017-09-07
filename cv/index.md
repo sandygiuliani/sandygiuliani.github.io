@@ -12,7 +12,7 @@ search_omit: false
 
 ## Work & Research Experience  
 
-**Managing Director, Imprenditore Agricolo Professionale** at [Società Agricola Patuelli Malagola di Giuliani Sandra S.S.](http://www.aapatuellimalagola.com)   
+**Managing Director, Imprenditore Agricolo Professionale** at [Società Agricola Patuelli Malagola di Giuliani Sandra S.S.](http://www.patuellimalagola.com)   
 *June 2007 - ongoing*  
 
 
